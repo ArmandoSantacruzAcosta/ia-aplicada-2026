@@ -36,5 +36,6 @@ otras cosas.
 {Un riesgo ético, de privacidad o de seguridad que ya ves venir}
 
 ## Qué NO va a hacer la solución
+no tener en cuenta esas posibilidades y dejar en fuera un hackeo o virus 
 
 {Delimita: una frase sobre lo que queda fuera}
