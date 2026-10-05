@@ -1,0 +1,17 @@
+ID	Dato	Categoría	Tipo / Fuente / Descripción breve			
+D1	Nombre completo del cliente y del arquitecto	Personal	Identificación directa de las personas.			
+D2	Correo electrónico y teléfono de contacto	Personal	Login, notificaciones y conexión cliente-arquitecto.			
+D3	Currículum vitae y semblanza/datos curiosos	Personal	Información profesional y perfil empático del arquitecto.			
+D4	Ubicación / Geolocalización del terreno o inmueble	Personal	Ubicación exacta para cotizaciones y proyectos.			
+D5	Precios y catálogo de materiales de construcción	No personal	Información pública y comercial de proveedores.			
+D6	Historial de cotizaciones o presupuestos	Personal	Registros de simulaciones de compras o proyectos.			
+D7	Datos bancarios o de tarjeta de crédito (Dato de Mayor Riesgo)	Sensible	Información financiera delicada para procesar cobros.			
+D8	Número de celular / WhatsApp	Personal	Notificaciones y contacto directo rápido.			
+D9	Foto de perfil / Avatar del usuario	Personal	Generación de confianza en el perfil.			
+D10	Contraseña cifrada o credenciales de acceso	Personal	Autenticación segura en el sistema.			
+D11	Dirección de facturación del cliente	Personal	Necesario si la app procesa pagos o facturas.			
+D12	Portafolio de proyectos (fotos y planos)	No personal	Galería técnica e ilustrativa pública del arquitecto.			
+D13	Cédula profesional del arquitecto	Personal	Validación legal de acreditación profesional.			
+D14	Calificaciones y reseñas	Personal	Reputación pública en la plataforma.			
+D15	Presupuesto máximo estimado del cliente	Personal	Filtro algorítmico para ajustar opciones.			
+D16	Dimensiones y topografía del terreno ($m^2$)	No personal	Datos técnicos del predio para construcción.			
