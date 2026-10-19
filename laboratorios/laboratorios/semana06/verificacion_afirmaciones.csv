@@ -1,0 +1,16 @@
+ID,Modelo,Afirmacion_textual,Tipo,Fuente_primaria_consultada,Resultado,Clasificacion
+1,ChatGPT (v1),La NOM-020-ENER-2011 regula la eficiencia energética en edificaciones no residenciales.,Norma o ley,DOF / CONUEE (NOM-020-ENER-2011),Aplica a edificaciones no residenciales.,Correcta
+2,ChatGPT (v1),La NOM-020-ENER-2011 fue publicada en el DOF en el año 2011.,Fecha,Diario Oficial de la Federación (09/08/2011),Publicada el 9 de agosto de 2011.,Correcta
+3,ChatGPT (v1),La NOM-008-ENER-2001 establece límites de ganancia de calor en envolventes de edificios residenciales.,Norma o ley,DOF / CONUEE,La NOM-008-ENER es para edificaciones no residenciales; la residencial es NOM-020.,Parcialmente correcta
+4,ChatGPT (v1),El sector residencial consume el 25.4% de la energía eléctrica total en México.,Cifra,Balance Nacional de Energía (SENER / INEGI),El consumo del sector residencial ronda el 23.1%.,Parcialmente correcta
+5,ChatGPT (v1),"SENER, Balance Nacional de Energía 2022, Secretaría de Energía, Ciudad de México, 2023.",Referencia bibliografica,Sitio Oficial SENER / Google Scholar,Documento oficial existente y accesible.,Correcta
+6,ChatGPT (v1),"García, R. (2020). Impacto de los materiales sostenibles en la vivienda mexicana. Editorial Limusa.",Referencia bibliografica,Google Scholar / DOI search,No existe libro o artículo registrado con este título ni autor.,Alucinada
+7,ChatGPT (v1),La Comisión Nacional para el Uso Eficiente de la Energía (CONUEE) supervisa la aplicación de estas normas.,Nombre de institucion,Sitio Oficial CONUEE (gob.mx/conuee),Institución y atribución correcta.,Correcta
+8,ChatGPT (v1),El Reglamento de Construcción de la Ciudad de México exige certificación LEED obligatoria desde 2018.,Norma o ley,Gaceta Oficial de la CDMX / RCDMX,La certificación LEED es privada/voluntaria no obligatoria.,Alucinada
+9,Gemini (v1),La NOM-020-ENER-2011 limita la transferencia de calor en la envolvente de edificios residenciales.,Norma o ley,DOF / CONUEE,Texto oficial de la NOM-020-ENER-2011.,Correcta
+10,Gemini (v1),La NOM-008-ENER-2001 fue emitida el 25 de abril de 2001.,Fecha,Diario Oficial de la Federación,Publicada el 25 de abril de 2001.,Correcta
+11,Gemini (v1),El 18.5% de las emisiones de CO2 en México provienen de la edificación residencial.,Cifra,INEGI / INECC Inventario Nacional de Emisiones,El porcentaje atribuido a edificaciones residenciales es aprox. 4.8%.,Alucinada
+12,Gemini (v1),"INEGI, Encuesta Nacional de Consumo de Energéticos en Viviendas (ENCEVI), 2018.",Referencia bibliografica,Sitio Oficial INEGI,Publicación oficial existente de INEGI.,Correcta
+13,Gemini (v1),"Mendoza, L. & Silva, P. (2021). Costos de construcción e insumos térmicos en México. Revista Arquis, 14(2), 45-60.",Referencia bibliografica,Google Scholar / Latindex,Revista no registra dicho volumen ni autores para esa fecha.,Alucinada
+14,Gemini (v1),La Secretaría de Desarrollo Agrario Territorial y Urbano (SEDATU) emite la Guía de Edificación Sustentable.,Nombre de institucion,Sitio Oficial SEDATU (gob.mx/sedatu),Documento y organismo existentes.,Correcta
+15,Gemini (v1),El costo promedio por metro cuadrado de construcción de interés medio en México es de $14500 MXN en 2023.,Cifra,CMIC (Cámara Mexicana de la Industria de la Construcción),Cifra dentro del rango estimado por la CMIC ($13500 - $15000 MXN).,Correcta
