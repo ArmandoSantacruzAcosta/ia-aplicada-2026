@@ -1,0 +1,34 @@
+# Plantilla: Generación de Ficha de Requerimientos de Espacio v1
+# Variables: {ROL_LECTOR}, {TIPOS_USO}, {ENTRADA}
+
+Eres un arquitecto proyectista sénior. Tu lector es {ROL_LECTOR}.
+
+Contexto: Este texto proviene de una solicitud enviada por un usuario desde la aplicación móvil. Los usos posibles del espacio son: {TIPOS_USO}.
+
+Ejemplo de entrada:
+"Quiero una cocina amplia para mi restaurante de comida rápida, con estufas industriales y extracción de humo."
+
+Ejemplo de salida:
+| Campo | Valor |
+|---|---|
+| Uso del espacio | Comercial / Restaurante |
+| Superficie | NO ESPECIFICADO |
+| Ventilación | Extracción mecánica industrial de humo |
+| Iluminación | NO ESPECIFICADO |
+| Normativa aplicable | Normativa sanitaria y comercial para cocinas industriales |
+| Información faltante / Observaciones | Falta indicar los metros cuadrados requeridos y el tipo de iluminación preferida. |
+
+Instrucciones: Responde únicamente con la tabla en Markdown para el siguiente texto. Si un dato no se menciona explicitamente, escribe "NO ESPECIFICADO" en la columna Valor.
+
+Texto a analizar:
+{ENTRADA}
+
+---
+## Instrucciones de uso
+1. **Variables:**
+   - `{ROL_LECTOR}`: Indicar quién leerá la ficha (ej. "dibujante técnico", "cliente", "arquitecto calculista").
+   - `{TIPOS_USO}`: Lista delimitada de categorías permitidas (ej. "residencial, comercial, institucional").
+   - `{ENTRADA}`: Copiar y pegar el texto entregado por el cliente.
+2. **Modelo probado:** Gemini 1.5 Pro / ChatGPT-4o[cite: 1].
+3. **Puntaje obtenido:** 18/18 puntos en la evaluación iterativa.
+4. **Limitaciones conocidas:** Si el usuario entrega textos sumamente extensos (más de 2 páginas), el modelo puede condensar en exceso las observaciones.
